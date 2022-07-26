@@ -12,5 +12,8 @@ KeyMorph: Robust Multi-modal Affine Registration via Unsupervised Keypoint Detec
 
 # Attention & Vision Transformer [[code]](https://github.com/sooftware/attentions/blob/master/attentions.py)
 
+An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+[[paper]](https://arxiv.org/abs/2010.11929)
+
 Vision Transformers Enable Fast and Robust Accelerated MRI
 [[paper]](https://openreview.net/pdf?id=cNX6LASbv6)
