@@ -10,8 +10,7 @@ KeyMorph: Robust Multi-modal Affine Registration via Unsupervised Keypoint Detec
 [[paper]](https://openreview.net/pdf?id=OrNzjERFybh)
 [[code]](https://github.com/evanmy/keymorph/tree/5b57d86047ca13c73f494e21fdf271f261912f84)
 
-# Attention 
-[[code]](https://github.com/sooftware/attentions/blob/master/attentions.py)
+# Attention & Vision Transformer [[code]](https://github.com/sooftware/attentions/blob/master/attentions.py)
 
 Vision Transformers Enable Fast and Robust Accelerated MRI
 [[paper]](https://openreview.net/pdf?id=cNX6LASbv6)
